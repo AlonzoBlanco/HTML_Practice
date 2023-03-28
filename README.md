@@ -1,2 +1,2 @@
-# HTML_Pactice
+# HTML_Practice
 Web development practice course
